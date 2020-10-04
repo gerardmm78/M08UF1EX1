@@ -11,7 +11,11 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
+        
+        function gmm_Name(){   
+            
+        }
+        
         ?>
     </body>
 </html>
