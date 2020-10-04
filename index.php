@@ -19,6 +19,10 @@ and open the template in the editor.
         function gmm_FavFood(){
             
         }
+        
+        function gmm_FavColour(){
+            
+        }
         ?>
     </body>
 </html>
