@@ -23,6 +23,11 @@ and open the template in the editor.
         function gmm_FavColour(){
             
         }
+        
+        
+        function gmm_especial(){
+            
+        }
         ?>
     </body>
 </html>
