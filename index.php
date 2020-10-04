@@ -26,11 +26,7 @@ and open the template in the editor.
         
         
         function gmm_especial(){
-            echo "Gerard Martínez Miquel";
             
-            echo "Martí Sabaté Miranda";
-            
-            echo "Selena Catena Morales";
         }
         ?>
     </body>
